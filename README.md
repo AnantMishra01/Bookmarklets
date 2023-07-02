@@ -1,51 +1,49 @@
-# My discord server:
+# my server:
+<a href="https://discord.gg/hrXXUeWgrn">
+  <img src="https://raw.githubusercontent.com/dragon731012/dragon731012/main/0.jpg" width="600px" height="230px"/>
+</a>
 
-(https://discord.gg/Vd5sJVqVzH)
+# how to use:
 
-  ![Discord](http://invidget.switchblade.xyz/Vd5sJVqVzH)
+for bookmarklets (the ones without .html):
 
+1. highlight all of the text
 
-# How to use:
+2. drag it to your bookmarks bar
 
-For the bookmarklets (The ones without a .html file ending)
+3. click it when you want to run it
 
-1. Select all of the code
+OR
 
-2. Drag it to your bookmarks bar
+1. copy whole thing.
 
-3. Click when you want to run the bookmarklet
+2. type javascript: into your url bar.
 
-OR,
+3. paste it
 
-1. Copy the whole thing.
+for html (ones with .html):
 
-2. Type javascript: into your url bar.
+1. if view raw option avalible, click it.
 
-3. Paste the code.
+2. right click over raw space.
 
-For html bookmarklets/games (The ones with a .html file ending)
+3. click save as
 
-1. If the view raw option is clickable, use it
+4. click file when you want to play
 
-2. Right click over any white space.
+for zip ones (ones with .zip):
 
-3. Click "Save as..."
+1. download
 
-4. Click the file when you want to use it.
+2. double click file until you see main.html or index.html
 
-For zip ones (Ones with the .zip file ending)
+3. play it
 
-1. Download them
+# my and my contributor's involvement with these
 
-2. Double click the file until you see "main.html" or "Index.html"
+We only made some of these, and we are not responsible for any of them. By using these, you agree to those terms. If you have a reasonable objection to something being on this respiratory, tell me and I'll remove it immediately.
 
-3. Play it
-
-# Me and my contributor's involvement with these:
-
-We only made some of these, and we are not responsible for any of them. By using these, you agree to those terms. If you have a reasonable objection to something being on this repo, tell me and I'll remove it immediately.
-
-# Other
+# other
 If you have any issues or ideas, please tell me in discussions (https://github.com/dragon731012/-WORKING-bookmarklets-and-games/discussions/2).
 
 Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.fetch.com/vvv3/referraltext?code=8B6M1B
